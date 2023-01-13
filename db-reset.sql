@@ -1,5 +1,5 @@
 \c postgres
-drop database binary
+drop database binary;
 create database binary;
 alter database binary owner to root;
 \c binary
